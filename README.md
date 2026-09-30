@@ -38,14 +38,11 @@ npm test
 npm run build
 ```
 
-## Deployment URL placeholder
+## Live Demo
 
-N/A
+[https://manufac-amber.vercel.app/](https://manufac-amber.vercel.app/)
 
 ## Approximate time spent
 
-About 2-3 hours
+About 3 hours
 
-## Unfinished work
-
-No unfinished work noted.
